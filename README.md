@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DasDarki</h1>
 <h3 align="center">Friendly fullstack developer (more likely backend) from Germany.</h3>
 
-- 🔭 I’m currently working on [EternityLife](https://eternitylife.de)
+- 🔭 I’m currently working on private Projects
 
 
 <h3 align="left">Languages and Tools:</h3>
